@@ -1,0 +1,16 @@
+.carousel-movie {
+    padding: 2% 3%;
+}
+
+.genero {
+    margin-bottom: 1%;
+    font-weight: 300;
+    font-size: 17px;
+    color: gray;
+}
+
+.box-movie {
+    height: 100%;
+    width: 100%;
+    display: block;
+}

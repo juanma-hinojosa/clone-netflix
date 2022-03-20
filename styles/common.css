@@ -1,0 +1,17 @@
+:root {
+    --rojo: #e50914;
+    --negro: #141414;
+    --blanco: rgb(245,245,245);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+body {
+    color: white;
+    background-color: var(--negro);
+}

@@ -1,0 +1,36 @@
+header {
+    width: 100%;
+    padding: 10px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: silver; */
+}
+
+header > .navbar-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header > .navbar-container > .logo {
+    color: var(--rojo);
+    font-size: 2rem;
+    /* width: 30%; */
+}
+
+header > .navbar-container > nav {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.04rem;
+}
+
+header > .navbar-container > nav > a {
+    color: whitesmoke;
+    transition: 0.3s;
+}
+header > .navbar-container > nav > a:hover {
+    color: rgb(180, 180, 180);
+}

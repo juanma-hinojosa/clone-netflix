@@ -1,0 +1,47 @@
+@media screen and (max-width:830px) {
+    header > .navbar-container {
+        display: flex;
+        flex-direction: column;
+    }
+    header > .navbar-container > nav {
+        width: 70%;
+    }
+
+    .container-movie {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width:550px) {
+    header > .navbar-container > nav {
+        width: 80%;
+    }
+   
+    .container-movie {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width:478px) {
+    header > .navbar-container > nav {
+        width: 90%;
+    }
+   
+    .container-movie {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:400px) {
+    header > .navbar-container > nav {
+        width: 100%;
+    }
+   
+    .container-movie {
+        width: 100%;
+    }
+
+    .tiny-box {
+        display: none;
+    }
+}
