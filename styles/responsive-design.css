@@ -20,6 +20,9 @@
     .container-movie {
         width: 80%;
     }
+    .sugerencia-movie > .container-movie {
+        width: 80%;
+    }
 }
 
 @media screen and (max-width:478px) {
@@ -30,6 +33,10 @@
     .container-movie {
         width: 90%;
     }
+
+    .sugerencia-movie > .container-movie {
+        width: 90%;
+    }
 }
 
 @media screen and (max-width:400px) {
@@ -38,6 +45,10 @@
     }
    
     .container-movie {
+        width: 100%;
+    }
+
+    .sugerencia-movie > .container-movie {
         width: 100%;
     }
 
