@@ -2,7 +2,7 @@
     height: 400px;
     background-image:
         linear-gradient(rgba(0,0,0,.60), rgba(0,0,0,.60)),
-        url(/img/house-front.jpg);
+        url(../img/house-front.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 16px;
@@ -85,7 +85,7 @@
     height: 400px;
     background-image:
         linear-gradient(rgba(0,0,0,.60), rgba(0,0,0,.60)),
-        url(/img/sugenrecia-tapa.jpg);
+        url(../img/sugenrecia-tapa.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 16px;
